@@ -1099,18 +1099,6 @@ PrefabInstance:
       propertyPath: m_Name
       value: Directional Light
       objectReference: {fileID: 0}
-    - target: {fileID: 623777290267517202, guid: acdcf1b9930859345969510992a211b8, type: 3}
-      propertyPath: m_ShadowAngle
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 623777290267517202, guid: acdcf1b9930859345969510992a211b8, type: 3}
-      propertyPath: m_Shadows.m_Type
-      value: 2
-      objectReference: {fileID: 0}
-    - target: {fileID: 623777290267517202, guid: acdcf1b9930859345969510992a211b8, type: 3}
-      propertyPath: m_Shadows.m_Strength
-      value: 1
-      objectReference: {fileID: 0}
     - target: {fileID: 623777290267517203, guid: acdcf1b9930859345969510992a211b8, type: 3}
       propertyPath: m_RootOrder
       value: 7
@@ -1283,7 +1271,7 @@ PrefabInstance:
       objectReference: {fileID: 1348711946}
     - target: {fileID: 6911768333085359723, guid: ff579295b54bafe45b86e86b9e36c7f1, type: 3}
       propertyPath: m_VersionIndex
-      value: 1474
+      value: 1477
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: ff579295b54bafe45b86e86b9e36c7f1, type: 3}
