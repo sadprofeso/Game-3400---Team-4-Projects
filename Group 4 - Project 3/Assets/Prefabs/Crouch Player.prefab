@@ -895,7 +895,7 @@ GameObject:
   - component: {fileID: 3759072803851925886}
   - component: {fileID: 1263780839385164526}
   m_Layer: 0
-  m_Name: FPS_CharacterController 1
+  m_Name: Crouch Player
   m_TagString: Player
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
